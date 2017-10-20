@@ -1,3 +1,7 @@
 10-19-2017
 
+- Added 'who r u' feature	
+
+10-19-2017
+
 - This is the initial entry in the changelog.
